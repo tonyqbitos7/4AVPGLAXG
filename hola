@@ -1,0 +1,86 @@
+
+<html lang="en" dir="ltr"><head>
+   <style>
+	   h3{color:white}
+   </style>
+    <meta charset="utf-8">
+    <title>pagina de autos</title>
+
+    <link rel="stylesheet" href="examen.css">
+    <style>
+      a:hover {
+      background-color: greenyellow;
+}
+    </style>
+  </head>
+  <body>
+    <div class="contenedor">
+      <header>
+        <div class="logo">
+<div><img src="Volkswagen.png" alt="logo" height="100">
+         <img src="Audi.png"  height="100" aling="center">
+         <img src="Seat.png" height="100" align="right"></div>
+          <h1 align="center">Servicios de autos Toningas</h1>
+          &nbsp;</div>
+        <nav class="navegacion">
+          <blockquote>
+						<div id="navegacion">
+				      <ul id="lista">
+				        <li><a href="">Inicio</a>
+
+				          <ul>
+				            <li><a href="">Anuncios</a></li>
+				            <li><a href="">Visitas</a></li>
+				            <li><a href="">Trofeos</a></li>
+				          </ul>
+				        </li>
+
+				        <li><a href="">Servicios</a>
+				          <ul>
+				            <li><a href="file:///C:/Users/user/Desktop/Nueva%20carpeta/tabla%20de%20estudios.html">Tabla CURRICULAR</a></li>
+				            <li><a href="">gallerry</a></li>
+				            <li><a href="">Correos</a></li>
+				          </ul>
+				        </li>
+						<li><a href ="">Contactanos</a>
+			        <ul>
+			        <li><a href=""></a></li>
+			        </ul>
+				        <li><a href="">Autos servicios</a>
+				          <ul>
+				            <li><a href="">INICO</a></li>
+				            <li><a href="">DESCARGAS</a></li>
+				            <li><a href="">Contactos</a></li>
+				            <ul>
+				              <li><a href="">videos</a></li>
+				              <li><a href="">gallerry</a></li>
+				              <li><a href="">Correos</a></li>
+				            </ul>
+				          </li>
+				        </li>
+				      </ul>
+				    </ul>
+          </blockquote>
+        </nav>
+
+      </header>
+      <main class="contenido-principal">
+        <section>
+          <nav class="menu">
+
+
+    </main></div>
+    <div class="content">
+      <h1></h1>
+      <p></p>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="nosotros">
+		<h5 class="copy" align="center">Servicios de autos en internet.</h5>
+    </div>
+    <footer>
+
+    </footer>
+
+
+</body></html>
